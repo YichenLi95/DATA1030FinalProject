@@ -1,0 +1,5 @@
+,best_params,mean_cv_f2,std_cv_f2
+Logistic Regression,"{'model__C': 1.0, 'model__penalty': 'l1', 'model__solver': 'liblinear'}",0.5492740729224908,0.0033472270101685443
+Random Forest,"{'model__max_depth': 10, 'model__min_samples_split': 2}",0.5460854754124126,0.002358436425224248
+XGBoost,"{'model__colsample_bytree': 0.7, 'model__learning_rate': 0.05, 'model__max_depth': 5, 'model__subsample': 0.5}",0.5518026464090405,0.003460646071252852
+kNN,"{'model__n_neighbors': 3, 'model__weights': 'distance'}",0.2090888333820328,0.002830500068341761
